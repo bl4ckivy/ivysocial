@@ -1,5 +1,5 @@
 #instagram{
-            content: "images/instagram.png";
+            content: element("images/instagram.png");
             float: left;
             width: 250px;
             height: 250px;
